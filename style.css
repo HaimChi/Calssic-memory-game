@@ -1,0 +1,61 @@
+body {
+    background-color: lightyellow;
+    padding: 50px 60px;
+    font-family: 'Mukta', sans-serif;
+}
+
+h2 {
+    text-align: center;
+    color: gray;
+    font-size: 16px;
+    font-weight: inherit;
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+    color: #004E89;
+}
+
+p {
+    color: gray;
+    text-align: center;
+}
+
+.button{
+    text-align: center;
+ 
+}
+
+.button a {
+    display: inline-block;
+    border: 1px #9DD1F1 solid;
+    background-color: #9DD1F1;
+    color: #004E89;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    margin: 50px 20px;
+}
+
+.gamecard {
+    position: relative;
+    text-align: center;
+}
+
+.card {
+    display: inline-block;
+    border: 2px #9DD1F1 solid;
+    height: 130px;
+    width: 150px;
+    padding: 50px;
+    padding-top: 60px;
+    text-align: center;
+    
+}
+
+.card:hover {
+    background-color: #004E89;
+    border-color: #004E89;
+}
+
